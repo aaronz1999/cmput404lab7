@@ -1,0 +1,7 @@
+0. https://github.com/aaronz1999/cmput404lab7
+1. Django is a full stack web framework while flask is a lightweight unit. Django support many database add ons such as mySQL while flask does not support many database add ons.
+2. REST stand for representational state transfer. RESTful meaning web service follows a REST architecture.
+3. CRUD stand for Create, Read, Update, and Delete. Associated http methods: POST-C; GET-R; PUT-U; DELETE-D.
+4. 1xx-continuing process; 2xx-successful; 3xx-redirect; 4xx-client error; 5xx-server error.
+5. XSS attack or Cross-site scripting happens when malicious scripts gets injected into websites and webapps, and have their information hacked. Website can be vulnerable to XSS attacks when user inputs are not properly sanitized.
+6. CORS stand for Cross-Origin Resource Sharing. CORS should be used in web development when there are information that should be protected on your backend and you won't want unprivileged users to access them.
